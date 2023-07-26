@@ -10,6 +10,7 @@ A text field to display the current calculation.
 A button to clear the current calculation.
 
 **Here are some of the benefits of building a calculator app in Flutter**
+
 Flutter is a cross-platform SDK, which means that the app can be built once and deployed to both iOS and Android devices.
 Flutter is a powerful SDK that allows for the creation of beautiful and responsive UIs.
 Flutter is easy to learn and use, even for beginners.
