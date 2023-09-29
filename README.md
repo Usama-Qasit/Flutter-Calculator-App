@@ -1,6 +1,7 @@
  
    ## FLUTTER CALCULATOR APP
-   
+
+   ### Show Support
 1. **Intuitive User Interface**
   - The app boasts a clean and modern user interface that's easy to navigate.
   - Its well-organized layout ensures that users can swiftly input and view their calculations
